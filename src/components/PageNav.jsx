@@ -14,10 +14,9 @@ function PageNav() {
           <NavLink to="/product">Product</NavLink>
         </li>
         <li>
-          <NavLink to="/app">App Layout</NavLink>
-        </li>
-        <li>
-          <NavLink to="/login">Login</NavLink>
+          <NavLink to="/login" className={StyleSheet.ctaLink}>
+            Login
+          </NavLink>
         </li>
       </ul>
     </nav>
@@ -25,4 +24,3 @@ function PageNav() {
 }
 
 export default PageNav;
-NavLink;
