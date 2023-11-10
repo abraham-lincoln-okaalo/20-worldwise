@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Nakasongola",
+      "country": "Uganda",
+      "emoji": "🇺🇬",
+      "date": "2023-11-10T13:47:27.966Z",
+      "notes": "Uganda",
+      "position": {
+        "lat": "1.0798545696160762",
+        "lng": "32.4781849299682"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2023-11-10T13:47:44.989Z",
+      "notes": "Nairobi National Park",
+      "position": {
+        "lat": "-1.269663287990385",
+        "lng": "36.98587734241733"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Kismayo",
+      "country": "Somalia",
+      "emoji": "🇸🇴",
+      "date": "2023-11-10T13:48:01.381Z",
+      "notes": "Somali Capital City",
+      "position": {
+        "lat": "-0.15061486873713945",
+        "lng": "42.61144518951121"
+      },
+      "id": 3
+    }
+  ]
 }
