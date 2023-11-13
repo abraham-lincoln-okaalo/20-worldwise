@@ -35,6 +35,18 @@
         "lng": "42.61144518951121"
       },
       "id": 3
+    },
+    {
+      "cityName": "Nakaseke",
+      "country": "Uganda",
+      "emoji": "🇺🇬",
+      "date": "2023-11-13T16:38:55.205Z",
+      "notes": "A wonderful location.",
+      "position": {
+        "lat": "1.3841426927920155",
+        "lng": "31.86264479114842"
+      },
+      "id": 4
     }
   ]
 }

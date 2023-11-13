@@ -57,7 +57,6 @@ function Form() {
           setCountry(data.countryName);
 
           setEmoji(convertToEmoji(data.countryCode));
-          console.log(country);
         } catch (err) {
           setGeocodingError(err.message);
         } finally {
